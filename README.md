@@ -12,7 +12,7 @@
                                         -                                 /| -
                                         -                                 \| -
                                         -------------------------------------
-                                            ---New Account, who dis?---
+                                         
 
                               My main Goal is to reach a good and rich understanding of 
                                                / \-------------------, 
