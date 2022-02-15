@@ -20,5 +20,4 @@
                                                   |    it-security   | 
                                                   |  ,-----------------
                                                   \_/________________/ 
-                              and to learn many unnecessary stuff on the way for entertainment.
-                                                      
+                              and to learn many unnecessary stuff on the way for fun.
