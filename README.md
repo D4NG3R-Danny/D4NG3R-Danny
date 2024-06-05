@@ -10,13 +10,13 @@
 
 * [Computer Graphics](https://en.wikipedia.org/wiki/Computer_graphics)
 
-
+          
 ---
 ## Stats
 Prog-Languages | Knowledge
 ---|---
-Python (3.10) | Advanced
-C/C++         | Basic
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" /> | Advanced
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" />    | Basic
 SQL           | Basic
 JavaScript    | None
 ---
