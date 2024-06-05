@@ -8,6 +8,7 @@
 
 * [InfoSec](https://en.wikipedia.org/wiki/Information_security)
 
+* [Computer Graphics](https://en.wikipedia.org/wiki/Computer_graphics)
 
 
 ---
@@ -17,7 +18,7 @@ Prog-Languages | Knowledge
 Python (3.10) | Advanced
 C/C++         | Basic
 SQL           | Basic
-
+JavaScript    | None
 ---
 
 I like to play around with Pythonmodules such as:
