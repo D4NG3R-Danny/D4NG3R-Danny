@@ -26,7 +26,7 @@ JavaScript    | None
 
 ## Projects in 2024:
 * Learn Javascript and master SQL
-* Learn SDL in C/C++
+* Learn SDL and OpenGL in C/C++
 * Learn to document IT-Projects
 * Random ideas:
   * 3D Game Engine in C++
