@@ -28,6 +28,10 @@ JavaScript    | None
 * Learn Javascript and master SQL
 * Learn SDL in C/C++
 * Learn to document IT-Projects
+* Random ideas:
+  * 3D Game Engine in C++
+  * Forensic Analysis in Python/C++
+  * Game Hacking
 
 ## Projects in 2025:
 * unknown
