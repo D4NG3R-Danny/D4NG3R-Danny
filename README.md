@@ -18,7 +18,7 @@ Prog-Languages | Knowledge
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" /> | Advanced
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" />    | Basic
 SQL           | Basic
-JavaScript    | None
+JavaScript    | Basic
 ---
 
 
