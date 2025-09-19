@@ -34,4 +34,5 @@ JavaScript    | Basic
   * Game Hacking
 
 ## Projects in 2025:
-* unknown
+* Raytracer in C/C++
+* Algorithms in C
